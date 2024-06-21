@@ -11,6 +11,8 @@
 
 Neofetch is a command-line system information tool written in `bash 3.2+`. Neofetch displays information about your operating system, software and hardware in an aesthetic and visually pleasing way.
 
+### Note: @dylanaraps, the original maintainer, has archived neofetch, so I've forked it to allow for continued development.
+
 The overall purpose of Neofetch is to be used in screen-shots of your system. Neofetch shows the information other people want to see. There are other tools available for proper system statistic/diagnostics.
 
 The information by default is displayed alongside your operating system's logo. You can further configure Neofetch to instead use an image, a custom ASCII file, your wallpaper or nothing at all.
@@ -22,4 +24,4 @@ You can further configure Neofetch to display exactly what you want it to. Throu
 Neofetch supports almost 150 different operating systems. From Linux to Windows, all the way to more obscure operating systems like Minix, AIX and Haiku. If your favourite operating system is unsupported: Open up an issue and support will be added.
 
 
-### More: \[[Dependencies](https://github.com/dylanaraps/neofetch/wiki/Dependencies)\] \[[Installation](https://github.com/dylanaraps/neofetch/wiki/Installation)\] \[[Wiki](https://github.com/dylanaraps/neofetch/wiki)\]
+### More: \[[Dependencies](https://github.com/supruim/neofetch/wiki/Dependencies)\] \[[Installation](https://github.com/supruim/neofetch/wiki/Installation)\] \[[Wiki](https://github.com/supruim/neofetch/wiki)\]
